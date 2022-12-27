@@ -1,0 +1,12 @@
+"Y"_City,_Arkansas Acorn,_Arkansas 15 45 US_71/270
+"Y"_City,_Arkansas Greenwood,_Arkansas 46 45 US_71
+"Y"_City,_Arkansas Hot_Springs,_Arkansas 70 45 US_270
+Abbot_Village,_Maine Bingham,_Maine 24 45 ME_16
+Abbot_Village,_Maine Guilford,_Maine 4 45 ME_6/15/16
+Abbot_Village,_Maine Jackman_Station,_Maine 73 45 ME_6/15
+Babb,_Montana Cardston,_Alberta 35 45 AB_2/US_89
+Babb,_Montana St._Mary,_Montana 17 45 US_89
+Babb,_Montana Waterton_Park,_Alberta 45 50 AB_6/MT_17
+Caballo,_New_Mexico Hatch,_New_Mexico 22 65 I-25
+Caballo,_New_Mexico Silver_City,_New_Mexico 76 45 NM_152
+Caballo,_New_Mexico Socorro,_New_Mexico 93 65 I-25
